@@ -1,0 +1,18 @@
+Why we are calling any specific piece of code : Tightly coupled 
+
+
+Coupling : coupling is measured by how much work is involved in changing something 
+Coupling is very much important in building great software 
+
+only constant in software is change ;
+
+Business requirements changes 
+Framework changes 
+your code changes 
+
+there we want loose couling as much as possible
+
+we want to make functional changes as less code changes as possible 
+
+
+java interfaces and spring framework help us with loose coupling

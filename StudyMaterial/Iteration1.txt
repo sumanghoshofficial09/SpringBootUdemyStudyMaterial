@@ -1,0 +1,3 @@
+We will create GameRunner class which will call Game Mario , pacman , 
+
+our focus on creating a game runner class and creating a mario class
