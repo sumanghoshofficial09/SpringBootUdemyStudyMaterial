@@ -1,0 +1,45 @@
+We can build many application using spring framework 
+Web application 
+Rest application 
+
+Full stack application 
+
+Microservice application 
+
+Spring framework has all the core concepts , once you learn apring framework 
+you can also learn Spring Boot framework very easily
+
+
+Goals of the Specific Section :
+
+We will build loosely coupled hello world gaming app 
+with modern spring approach 
+
+Iteration 1 : Build a Tightly couple game 
+
+GameRunner clas 
+
+Game classes : Mario , PacMan , Super Contra 
+
+
+Iretation 2 : Build a loosely couple : Interface 
+
+GameRunner Class 
+GameConsole Interface 
+
+We have all game classes implement that interface 
+
+Game classes : Mario , packman. contra 
+
+Iteration 3 : we will bring SPring framework in : 
+
+ 	 we will number of spring beans and spring framework will handle 
+ 	 and manage object and wiring 
+ 	 
+ Iteration 4 : 
+ Spring loose coupling level 4 
+ We will spring annotation to achieve these scenarios  :
+ 
+ Spring framework will create , manage and auto wire objects 
+ 
+
