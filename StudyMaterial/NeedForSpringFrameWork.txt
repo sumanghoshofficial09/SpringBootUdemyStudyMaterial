@@ -1,0 +1,40 @@
+How Architecture has Evolved 
+From basic web application , we moved to webservices : rest api 
+
+then we moved to full stack application to microservices 
+
+Now today we are deploying application to the cloud : 
+
+We use number of framework to build our application 
+
+Spring , Spring boot , Spring Mvc , Spring hibernate 
+
+Spring Data , Spring Cloud , Spring Security 
+
+two application framework to learn : 
+Spring framework and Spring Boot Framework 
+Spring framework provides dependency injection and autowiring : which is most important 
+to create maintainable application 
+
+Spring and SpringBoot framework will improve our productivity , we can do lot more 
+
+things with lot less code 
+
+Beginner to Spring framework struggles to understand why we need spring framework 
+
+
+Some topics to cover : 
+ 
+ Tight coupling 
+ Loose Coupling 
+ Dependency Injection :
+ Spring Beans
+ Application Context 
+ IOC container 
+ 
+ Auto wiring 
+ 
+ Component Scan 
+ 
+ 
+ 
